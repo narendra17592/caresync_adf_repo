@@ -1,0 +1,12 @@
+{
+	"name": "DS_azsql_tableid",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_azsql_caresync",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}
